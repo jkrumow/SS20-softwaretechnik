@@ -1,0 +1,6 @@
+*.class
+build/
+temp/
+_norepo/
+videos/
+.idea
