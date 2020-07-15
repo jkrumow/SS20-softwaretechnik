@@ -1,2 +1,0 @@
-# Architektur Cheat Sheet
-
