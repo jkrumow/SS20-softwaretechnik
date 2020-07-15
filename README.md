@@ -2,6 +2,6 @@
 
 Lösungen der Einsendeaufgaben.
 
-Verzeichnisse benannt nach Aufgabenstelllung.
+Verzeichnisse benannt nach Aufgabenstellung.
 
-Lösungen entweder als PDf oder Codebeispiel.
+Lösungen entweder als PDF oder Codebeispiel.
