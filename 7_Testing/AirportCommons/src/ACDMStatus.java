@@ -1,0 +1,3 @@
+public enum ACDMStatus {
+	NONE, TMI, TMO, LAN, ONB, OFB, SIT, SEQ, BGB, ENB, SUR, SUG, PBR, PBG, TXG, ALU, DEP, RTS
+}
